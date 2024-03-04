@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">android-2</string>
+    <string name="android">Андроид</string>
+</resources>
